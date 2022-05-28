@@ -1,0 +1,15 @@
+C:\dio-crud\obj\Debug\net6.0\dio-crud.csproj.AssemblyReference.cache
+C:\dio-crud\obj\Debug\net6.0\dio-crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio-crud\obj\Debug\net6.0\dio-crud.AssemblyInfoInputs.cache
+C:\dio-crud\obj\Debug\net6.0\dio-crud.AssemblyInfo.cs
+C:\dio-crud\obj\Debug\net6.0\dio-crud.csproj.CoreCompileInputs.cache
+C:\dio-crud\bin\Debug\net6.0\dio-crud.exe
+C:\dio-crud\bin\Debug\net6.0\dio-crud.deps.json
+C:\dio-crud\bin\Debug\net6.0\dio-crud.runtimeconfig.json
+C:\dio-crud\bin\Debug\net6.0\dio-crud.dll
+C:\dio-crud\bin\Debug\net6.0\dio-crud.pdb
+C:\dio-crud\obj\Debug\net6.0\dio-crud.dll
+C:\dio-crud\obj\Debug\net6.0\refint\dio-crud.dll
+C:\dio-crud\obj\Debug\net6.0\dio-crud.pdb
+C:\dio-crud\obj\Debug\net6.0\dio-crud.genruntimeconfig.cache
+C:\dio-crud\obj\Debug\net6.0\ref\dio-crud.dll
